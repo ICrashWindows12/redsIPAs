@@ -1,0 +1,29 @@
+{
+  "META": {
+    "repoName": "REDS IPA REPO",
+    "repoIcon": "https://usescarlet.com/favicon.png"
+  },
+  "Games": [
+    {
+      "name": "Geometry Dash",
+      "version": "0.313.0",
+      "down": "https://download940.mediafire.com/pzaiv3bxle9gXbHOzoRJleJE9FQyAy-dtuDwbnPMWcQpjUoirLHm1sOlx0O-sRmeFDcsIyXMFd0W37ZtDJAModlieeVDDrQDWlo8XQ7SnxdDhw425vBYkwNDYx5N5jdD2VcPuA9WOL32ObaGUpTQpL_xWCCLswkzDCAH1mawjw/2vepl0jmmn3u11g/com.robtop.geometryjump.ipa",
+      "category": "Hacked Games",
+      "description": "FREE GEOMETRY DASH",
+      "bundleID": "com.robtop.geometryjump",
+      "appstore": "com.robtop.geometryjump"
+      }
+  ]
+}
+  "Tweaked": [
+    {
+      "name": "uYou+",
+      "version": "19.08.2-3.0.3",
+      "down": "https://download1323.mediafire.com/mn4rl79er4vgf_V4auqRUsv8SU-wuRR40bH9cGKvjAlovLxmq_micfcz5XcKOQycvNxRz0zySZxwXE1IvFmsUef1EUJQIrci0nnoME8PqSKw4C_f4FE0xwMs64X4vX6-YiTw_vWVZAGPJK45nSBEZu3RXvY0dDWADzJb-fbIqg/yvxd68ypmw2j7kg/uYou%2B.ipa",
+      "category": "Tweaked Apps",
+      "description": "A version of youtube, but enhanced features + Adblocking",
+      "bundleID": "com.google.ios.youtube",
+      "appstore": "com.google.ios.youtube",
+    }
+  ]
+}
