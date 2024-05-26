@@ -6,15 +6,14 @@
   "Games": [
     {
       "name": "Geometry Dash",
-      "version": "0.313.0",
+      "version": "2.20",
       "down": "https://download940.mediafire.com/pzaiv3bxle9gXbHOzoRJleJE9FQyAy-dtuDwbnPMWcQpjUoirLHm1sOlx0O-sRmeFDcsIyXMFd0W37ZtDJAModlieeVDDrQDWlo8XQ7SnxdDhw425vBYkwNDYx5N5jdD2VcPuA9WOL32ObaGUpTQpL_xWCCLswkzDCAH1mawjw/2vepl0jmmn3u11g/com.robtop.geometryjump.ipa",
       "category": "Hacked Games",
       "description": "FREE GEOMETRY DASH",
       "bundleID": "com.robtop.geometryjump",
       "appstore": "com.robtop.geometryjump"
-      }
-  ]
-}
+    }
+  ],
   "Tweaked": [
     {
       "name": "uYou+",
@@ -23,7 +22,7 @@
       "category": "Tweaked Apps",
       "description": "A version of youtube, but enhanced features + Adblocking",
       "bundleID": "com.google.ios.youtube",
-      "appstore": "com.google.ios.youtube",
+      "appstore": "com.google.ios.youtube"
     }
   ]
 }
